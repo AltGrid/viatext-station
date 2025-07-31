@@ -2,7 +2,7 @@
 
 *The terminal window at the edge of the network. The Linux-side operator of the Line.*
 
-![VIATEXT Logo](../viatext.png)
+![VIATEXT Logo](viatext.png)
 
 **`viatext-station`** is the Linux-side interface for running ViaText nodes as message dispatchers, relays, and endpoints.  
 It transforms any Linux box — Ubuntu, Tails, Raspberry Pi — into a self-reliant node in the ViaText mesh.
